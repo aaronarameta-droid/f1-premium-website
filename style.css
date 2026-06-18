@@ -90,7 +90,7 @@ header .logo {
 .image-row figcaption {
   margin-top: 0.5rem;
   font-size: 0.9rem;
-  color: var(--text-medium);
+ color: var(--text-muted);
 }
 
 /* Generic content sections for detailed pages */
