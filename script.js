@@ -1045,11 +1045,12 @@ const translations = {
     /* Footer */
     'footer.text': '© 2026 F1 Premium. Alle Rechte vorbehalten.',
   },
-  ar: {
+ ar: {
     /* Navigation */
     'nav.home': 'الرئيسية',
     'nav.about': 'ما هو F1 بريميوم؟',
     'nav.how': 'كيف يعمل',
+    'nav.wallet': 'إعداد المحفظة',
     'nav.register': 'التسجيل',
     'nav.backoffice': 'لوحة التحكم',
     'nav.faq': 'الأسئلة الشائعة',
